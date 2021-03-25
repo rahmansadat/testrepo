@@ -20,4 +20,4 @@ def lucky_winner(file_name, my_id):
 print(lucky_winner("lucky_ids.txt", "001090464"))  # Test 1 success
 print(lucky_winner("lucky_ids.txt", "001068766"))  # Test 2 success
 print(lucky_winner("lucky_ids.txt", "223"))  # Test 3 success
-print("EXTRA")
+print("EXTRAAAAAA")
